@@ -272,7 +272,7 @@ export default function Component() {
 
                                     Hide fields
                                 </Button>
-                                <Button
+                                 <Button
                                     variant="ghost"
                                     size="sm"
                                     className=" hover:bg-[#f6f6f6] h-8 px-3 "
